@@ -3,7 +3,7 @@
   <thumbnailPath>Cristal.png</thumbnailPath>
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff0000</cutColor>
-  <color>#70b8ff</color>
+  <color>#99ccff</color>
   <name>Cristal</name>
   <materialThicknesses>
     <float>3.0</float>

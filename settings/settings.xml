@@ -2,20 +2,20 @@
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <windowBounds>
-    <x>64</x>
-    <y>115</y>
+    <x>41</x>
+    <y>76</y>
     <width>1792</width>
     <height>849</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
     <string>C:\Users\reprap\Documents\Pruebas\Papel\vectorized_fretwork_pattern.svg</string>
-    <string>D:\pruebas-ignis\Papel\arbol de crisma\Foliage-1.svg</string>
-    <string>D:\pruebas-ignis\Papel\vectorized_fretwork_pattern.svg</string>
-    <string>C:\Users\LABORATORIO\.visicut\examples\block.svg</string>
-    <string>D:\pruebas-ignis\formatos\pruebacolores.svg</string>
+    <string>C:\Users\reprap\AppData\Local\Temp\ink_ext_XXXXXX.svgXB3A1X.svg</string>
+    <string>C:\Users\reprap\Desktop\plantilla_para_visicut1.svg</string>
+    <string>C:\Users\reprap\Desktop\plantilla_para_visicut.svg</string>
+    <string>C:\Users\reprap\AppData\Local\Temp\ink_ext_XXXXXX.svgL3RJ1X.svg</string>
   </recentFiles>
-  <lastMaterial>Metacrilato</lastMaterial>
+  <lastMaterial>Madera</lastMaterial>
   <lastLaserDevice>BCN3D IGNIS</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
